@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TcpChat</string>
+    
+    <string name="text_server">Server</string>
+    <string name="text_client">Client</string>
+    
+    <string name="text_start">START</string>
+    <string name="text_connect">CONNECT</string>
+    <string name="text_close">CLOSE</string>
+    <string name="text_disconnect">DISCONNECT</string>
+    <string name="text_send">SEND</string>
+    
+    <string name="text_port">port</string>
+    <string name="text_ip">ip</string>
+</resources>
