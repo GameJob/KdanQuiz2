@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\KdanQuiz2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d42389e3c4b48489e3643c45249d54332fecb75b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\KdanQuiz2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de75590bc66b512bb4e2c1e70e5d11e12e138423">
+        <dex dex="D:\AndroidStudioProjects\KdanQuiz2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47a8947d23b6349538a8d976478ed5673a5389d5\classes.dex" />
+    </item>
+
+</items>

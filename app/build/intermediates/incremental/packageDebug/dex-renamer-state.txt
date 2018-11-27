@@ -1,0 +1,7 @@
+#Tue Nov 27 08:15:35 CST 2018
+base.0=D\:\\AndroidStudioProjects\\KdanQuiz2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d42389e3c4b48489e3643c45249d54332fecb75b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidStudioProjects\\KdanQuiz2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47a8947d23b6349538a8d976478ed5673a5389d5\\classes.dex
+base.1=D\:\\AndroidStudioProjects\\KdanQuiz2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47a8947d23b6349538a8d976478ed5673a5389d5
+file.0=D\:\\AndroidStudioProjects\\KdanQuiz2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d42389e3c4b48489e3643c45249d54332fecb75b\\classes.dex

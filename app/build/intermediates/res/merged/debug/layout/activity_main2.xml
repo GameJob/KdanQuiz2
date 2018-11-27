@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical" >
+
+    <!-- The main content view -->
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF3F51B5"
+        android:minHeight="?attr/actionBarSize"
+        android:title="@string/app_name" />
+
+    <TextView
+        android:id="@+id/tvServer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:padding="2dp"
+        android:text="@string/text_server"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+    <RelativeLayout
+        android:id="@+id/layoutServer"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="16dp"
+        android:layout_weight="1"
+        android:background="#FF80CBC4"
+        android:orientation="vertical" >
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvClent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:padding="2dp"
+        android:text="@string/text_client"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+    <RelativeLayout
+        android:id="@+id/layoutClient"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="16dp"
+        android:layout_weight="1"
+        android:background="#FF80CBC4"
+        android:orientation="vertical" >
+    </RelativeLayout>
+
+</LinearLayout>
